@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**anugrahdev/anugrahdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
 
-Here are some ideas to get you started:
+I graduated from Sriwijaya University with Bachelor Degree in Informatics Engineering (GPA 3.65 / 4.00). I've been working in software development for over 1+ years, and have spent the current years working as Android and iOS Developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Currently working at DOT as iOS Engineer.
+
+# Other Notes:
+
+- 🌱 I’m currently learning -> Mobile App Development, SwiftUI, iOS App Development, Android App Development, Jetpack Compose, etc
+- 💬 You can Ask me about -> Swift or iOS Development Environment
+- 📫 How to reach me: [anangnugraha8@gmail.com](anangnugraha8@gmail.com)
+
+### 📊 Stats: 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahdev&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahdev)
