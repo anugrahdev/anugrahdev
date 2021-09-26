@@ -3,7 +3,7 @@
 
 I graduated from Sriwijaya University with Bachelor Degree in Informatics Engineering (GPA 3.65 / 4.00). I've been working in software development for over 1+ years, and have spent the current years working as Android and iOS Developer. 
 
-#### 🔭 Currently working at DOT as iOS Engineer.
+#### 🔭 Currently working at DOT as Mobile Developer.
 
 # Other Notes:
 
