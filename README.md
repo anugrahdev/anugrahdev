@@ -13,7 +13,9 @@ I graduated from Sriwijaya University with Bachelor Degree in Informatics Engine
 
 ### 💬 Wanna reach me? :coffee:
 Linkedin : https://www.linkedin.com/in/anangnugraha/
+
 Medium : https://anangnugraha.medium.com/
+
 Portfolio Website : -
 
 ### 📊 Stats: 
