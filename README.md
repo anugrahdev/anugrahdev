@@ -11,6 +11,11 @@ I graduated from Sriwijaya University with Bachelor Degree in Informatics Engine
 - 💬 You can Ask me about -> Android or iOS Development Environment
 - 📫 How to reach me: [anangnugraha8@gmail.com](anangnugraha8@gmail.com)
 
+### 💬 Wanna reach me? :coffee:
+Linkedin : https://www.linkedin.com/in/anangnugraha/
+Medium : https://anangnugraha.medium.com/
+Portfolio Website : -
+
 ### 📊 Stats: 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahdev&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahdev)
