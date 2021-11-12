@@ -19,6 +19,5 @@ Medium : https://anangnugraha.medium.com/
 Portfolio Website : -
 
 ### 📊 Stats: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahdev&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahdev)
-,
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anugrahdev&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahdev&layout=compact&theme=tokyonight" />
+
