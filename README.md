@@ -8,7 +8,7 @@ I graduated from Sriwijaya University with Bachelor Degree in Informatics Engine
 # Other Notes:
 
 - 🌱 I’m currently learning -> Mobile App Development, SwiftUI, iOS App Development, TDD iOS App Development, VIPER, Clean Architecure, etc.
-- 💬 You can Ask me about -> Android or iOS Development Environment
+- 💬 You can Ask me about -> iOS Development Environment
 - 📫 How to reach me: [anangnugraha8@gmail.com](anangnugraha8@gmail.com)
 
 ### 💬 Wanna reach me? :coffee:
