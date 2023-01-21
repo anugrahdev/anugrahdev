@@ -3,7 +3,7 @@
 
 I graduated from Sriwijaya University with Bachelor Degree in Informatics Engineering (GPA 3.65 / 4.00). I've been working in software development for around 2 years of experiences, and have spent the current years working as Android and iOS Developer. 
 
-#### 🔭 Currently working at Sekolahmu as iOS Engineer.
+#### 🔭 Currently working at Allianz as iOS Engineer.
 
 # Other Notes:
 
