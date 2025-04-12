@@ -1,7 +1,7 @@
 
 ### Hi 👋
 
-I graduated from Sriwijaya University with Bachelor Degree in Informatics Engineering (GPA 3.65 / 4.00). I've been working in software development for around 2 years of experiences, and have spent the current years working as Android and iOS Developer. 
+Software Engineer (iOS Developer) with 5+ years of experience in developing scalable and high-performance applications for iOS and Android using Swift, Flutter, and Kotlin. Experienced in CI/CD pipelines, App Store distribution, code review, unit testing, and debugging. Proficient in Agile methodologies with strong collaboration skills, and highly motivated to contribute in fintech and banking innovation.
 
 #### 🔭 Currently working at Allianz as iOS Engineer.
 
